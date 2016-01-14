@@ -11,7 +11,6 @@ npm install
 This project contain package
 - hapi
 - inert
-- mongoose
 - hapi-auth-basic
 - mongoose
 
