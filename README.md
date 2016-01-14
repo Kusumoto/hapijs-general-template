@@ -8,4 +8,11 @@ You can clone this project to your location for implement and use this command f
 npm install
 ```
 
+This project contain package
+- hapi
+- inert
+- mongoose
+- hapi-auth-basic
+- mongoose
+
 
